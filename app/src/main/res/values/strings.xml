@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">OnScore</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">OnScore</string>
+    <string name="nav_header_subtitle">Iniciar sesión</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Ajustes</string>
+
+    <string name="menu_home">Partidos</string>
+    <string name="menu_gallery">Jugadores</string>
+    <string name="menu_slideshow">Equipos</string>
+
+    <string name="home_second">Home Second</string>
+</resources>
